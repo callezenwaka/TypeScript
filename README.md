@@ -13,7 +13,7 @@ or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
 
-<!--Resources-->
-<!-- https://github.com/MicrosoftDocs/mslearn-typescript -->
-<!-- https://docs.aws.amazon.com/cloud9/latest/user-guide/projects.html-->
-<!--https://docs.aws.amazon.com/cloud9/latest/user-guide/sample-typescript.html-->
+# Resources
+https://github.com/MicrosoftDocs/mslearn-typescript
+https://docs.aws.amazon.com/cloud9/latest/user-guide/projects.html
+https://docs.aws.amazon.com/cloud9/latest/user-guide/sample-typescript.html
